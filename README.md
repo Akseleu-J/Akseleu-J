@@ -6,12 +6,7 @@ I am a **13-year-old student** at the **Nazarbayev Intellectual School (NIS)**, 
 ---
 
 ### 🧬 About Me
-*   **Current Focus:** Mastering **Asynchronous Python (Aiogram)** and scalable Database Architecture (**PostgreSQL**).
-*   **The Vision:** My roadmap leads to 2030 and beyond — from building a footwear empire to launching **1-nm chip factories** and global satellite networks.
-*   **Philosophy:** **Vertical integration.** If I need a component, I don't buy it — I build the factory that makes it.
-*   **Instruments:** I also play the **Dombra**, mastering high-speed traditional kyuys (speed is my passion, both in music and in code).
-
----
+*   **Current Focus:** Mastering **AI-engeenering** and **pre-train** own models
 
 ### 💻 Tech Stack & Tools
 *   **Languages:** Python (Advanced), C++, SQL.

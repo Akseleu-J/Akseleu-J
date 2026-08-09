@@ -55,7 +55,8 @@ I handle everything solo: architecture design, dataset assembly, trainer code, a
 
 - **Hugging Face**: [atomic-ai-labs](https://huggingface.co/atomic-ai-labs)  
 - **Telegram**: [@Akseleu_official](https://t.me/Akseleu_official)    
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [omirbajakseleu5@gmail.com](mailto:omirbajakseleu5@gmail.com)
+- **Kaggle**: [akseleu1j](kaggle.com/akseleu1j)
 
 ---
 

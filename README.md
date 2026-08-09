@@ -1,36 +1,62 @@
-# Hi there, I'm Akseleu! 👋
+# Hi, I'm [Your Name] 👋
 
-### 🛠 Aspiring Backend Developer & System Architect
-I am a **13-year-old student** at the **Nazarbayev Intellectual School (NIS)**, currently in the 7th grade. While most people my age are just playing games, I am busy building the infrastructure for the future.
-
----
-
-### 🧬 About Me
-*   **Current Focus:** Mastering **AI-engeenering** and **pre-train** own models
-
-### 💻 Tech Stack & Tools
-*   **Languages:** Python (Advanced), C++, SQL.
-*   **Backend:** Telebot (Migrating to Aiogram), PostgreSQL, Supabase.
-*   **DevOps:** Linux (Ubuntu), Systemd, Git.
-*   **Future Interests:** AI, Robotics, Nanotechnology.
+**AI Engineer (Full‑Cycle)** · Student at NIS Shymkent (Grade 8)  
+Building language models from scratch – architecture, data pipeline, training, evaluation.
 
 ---
 
-### 📈 Current Projects
-*   **[Jarvis Bot]:** A fully automated ecosystem for e-commerce, featuring an admin panel, vendor management, and complex SQL-based logging. *Status: MVP released, Refactoring to Async soon.*
-*   **[Air Ecosystem]:** The blueprint for my future vertically integrated corporation.
+## What I do
+
+- Design custom Transformer blocks (attention, position encoding, FFN)  
+- Train models up to 600M parameters on **JAX** (also PyTorch)  
+- Build data pipelines for large text corpora (cleaning, tokenization, streaming)  
+- Optimise memory and compute with `pjit`, `pmap`, FSDP, DeepSpeed  
+- Deploy and version models via Hugging Face
 
 ---
 
-### 📊 My GitHub Stats
-![Akseleu's Stats](https://github-readme-stats.vercel.app/api?username=Akseleu-J&show_icons=true&theme=radical)
+## Tech Stack
+
+| Domain | Tools |
+|--------|-------|
+| **Frameworks** | JAX (primary), PyTorch |
+| **Languages** | Python 3.11+ |
+| **Data** | Parquet, Arrow, HuggingFace Datasets, Web scraping |
+| **Training** | DDP / FSDP / DeepSpeed (PyTorch), `pjit` (JAX) |
+| **Monitoring** | Weights & Biases, TensorBoard |
+| **Infra** | Docker, Linux, Slurm (if applicable) |
 
 ---
 
-### 📫 Connect with Me
-*   **School:** NIS (Nazarbayev Intellectual Schools)
-*   **Location:** Shymkent / Lenger, Kazakhstan
-*   **Goal:** Looking for mentors, high-level discussions, and challenges.
+## 🔬 Current Project: `Atomic-light-v0.1`
 
-> *"The best way to predict the future is to create it."*
-> 
+| Property | Detail |
+|----------|--------|
+| Parameters | ~600 million |
+| Architecture | [Atomic(comming-soon)] |
+| Context length | [e.g. 4096 tokens] |
+| Framework | **JAX** |
+| Status |  pre‑training in progress |
+| Organisation | [atomic-ai-labs](https://huggingface.co/atomic-ai-labs) on Hugging Face |
+
+I handle everything solo: architecture design, dataset assembly, trainer code, and evaluation.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akseleu-J&show_icons=true&theme=default&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akseleu-J&layout=compact&theme=default)
+
+---
+
+## 📫 Contact
+
+- **Hugging Face**: [atomic-ai-labs](https://huggingface.co/atomic-ai-labs)  
+- **Telegram**: [@Akseleu_official](https://t.me/Akseleu_official)    
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+*I’m 13, but I believe age doesn’t limit what you can build. Open to collaborations and research discussions.*

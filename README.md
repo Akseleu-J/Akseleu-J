@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Akseleu 👋
 
-**AI Engineer (Full‑Cycle)** · Student at NIS Shymkent (Grade 8)  
+**AI Engineer (Full‑Stack)** · Student at NIS Shymkent (Grade 8)  
 Building language models from scratch – architecture, data pipeline, training, evaluation.
 
 ---
